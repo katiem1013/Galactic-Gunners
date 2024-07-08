@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c42d6b5b05375e948bdad909bf19cfb5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LT Aspirer Neue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 534c3d20c1f5bec4c87e03cd5448c1dd, type: 3}
+  - {fileID: 12800000, guid: 41479ea8b228e914c9ede135dec44d30, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
