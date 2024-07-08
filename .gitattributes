@@ -2,7 +2,7 @@
 * linguist-vendored
 *.Rich Text Format linguist-vendored=false
 
-*.csharp linguist-detectable=true  
+*.cs linguist-detectable=true  
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
