@@ -4,3 +4,6 @@
 *.xml linguist-detectable=false 
 *.asm linguist-detectable=false
 *.csharp linguist-detectable=true
+
+* linguist-vendored
+*.Rich Text Format linguist-vendored=false
