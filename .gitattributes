@@ -1,9 +1,5 @@
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false 
-*.asm linguist-detectable=false
-*.csharp linguist-detectable=true
 
 * linguist-vendored
 *.Rich Text Format linguist-vendored=false
+
+*.csharp linguist-vendored
