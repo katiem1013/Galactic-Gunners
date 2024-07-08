@@ -2,4 +2,4 @@
 * linguist-vendored
 *.Rich Text Format linguist-vendored=false
 
-*.csharp linguist-vendored
+*.csharp linguist-vendored = true
