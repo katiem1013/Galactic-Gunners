@@ -1,3 +1,3 @@
 * linguist-vendored
 *.Rich Text Format linguist-vendored=false
-*.C# linguist-vendored=true
+*.csharp linguist-vendored=true
