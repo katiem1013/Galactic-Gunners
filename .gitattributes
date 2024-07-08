@@ -1,7 +1,4 @@
 
-* linguist-vendored
-*.Rich Text Format linguist-vendored=false
-
 *.cs linguist-detectable=true  
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
