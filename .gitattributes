@@ -6,4 +6,4 @@
 *.xml linguist-detectable=false
 *.rich text format linguist-detectable=false
 
-Assets/TextMesh?Pro/** linguist-generated
+*.extension linguist-language=cs
