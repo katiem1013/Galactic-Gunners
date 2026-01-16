@@ -6,4 +6,5 @@
 *.xml linguist-detectable=false
 *.rich text format linguist-detectable=false
 
-*.extension linguist-language=cs
+*.extension linguist-language=.cs
+*.rtf linguist-documentation=true
