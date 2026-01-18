@@ -21,11 +21,6 @@ This game was a uni project for my Gaming Hardware class! Game Link: https://kat
 
 This game was a university third year project. The inspiration for this game came from wanting to make a fully immersive game and controller. I originally was going to use the Wii controllers but ended up switching to the Switch controllers a few months in. I combined this with the Makey-Makey to control the attachements for the gun. The game was completely coded in Unity and was made over a 6 months period from designing to hand in. 
 
-
-## Design
-
-
-
 ## Preview
 
 [![Watch the video]((https://img.youtube.com/vi/B-OWGNG2uXU/hqdefault.jpg))](https://youtu.be/B-OWGNG2uXU)
