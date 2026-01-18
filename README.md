@@ -28,4 +28,4 @@ This game was a university third year project. The inspiration for this game cam
 
 ## Preview
 
-[![Watch the video]((https://img.youtube.com/vi/B-OWGNG2uXU/maxresdefault.jpg))](https://youtu.be/B-OWGNG2uXU)
+[![Watch the video]((https://img.youtube.com/vi/B-OWGNG2uXU/hqdefault.jpg))](https://youtu.be/B-OWGNG2uXU)
